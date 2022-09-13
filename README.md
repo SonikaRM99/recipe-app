@@ -9,11 +9,14 @@
 # Components
 - From component, user can search by recipe name or content of the recipe default search with 'fish'
 - RecipeCard Component, Will display all the search result in card
-- RecipeDetails Component, detailed description of any perticular recipe 
+- RecipeDetails Component, detailed explaination of any particular recipe 
 
 ## Material-UI 
 
 Created responsive application using mui-v5
 
-
+##Screenshots
+image.png
+image.png
+image.png
 
